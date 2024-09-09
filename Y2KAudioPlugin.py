@@ -8,7 +8,7 @@
 #     \__\/  \_____\/\__\/\__\/ \_____\/\_\/ \_\/\_____\/\_____\/\____/_/ V1.0
 #
 # Y2KERSED is "prankware" developed by Kersed. This malware makes the
-# target system randomly play AIM audio files from the 90s and early 00s.
+# target Windows system randomly play AIM audio files from the 90s and early 00s.
 # Kill switch can be enabled by setting system clock between
 # 2000-01-01 00:00:00 and 2000-01-02 00:00:00.
 #
