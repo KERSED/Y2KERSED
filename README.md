@@ -3,3 +3,5 @@ Y2KERSED is prankware developed by Kersed. This malware makes the target Windows
 In order to create an executable file that runs without the console on the victims machine you will need to run the Python file through pyinstaller.exe using the command below:
 
 pyinstaller.exe Y2KAudioPlugin.py --onefile --noconsole
+
+This is for educational purposes only. Users should ensure they adhere to all applicable laws when using the information provided.
